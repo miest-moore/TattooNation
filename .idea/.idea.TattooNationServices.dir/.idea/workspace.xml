@@ -4,10 +4,15 @@
     <projectFile profileName="IIS Express">TattooNationService/TattooNationService.csproj</projectFile>
     <projectFile profileName="TattooNationService">TattooNationService/TattooNationService.csproj</projectFile>
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9aa83dbf-5f1e-4f44-bd9e-4450c0fab5d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TattooNationService/Dockerfile" afterDir="false" />
+    <list default="true" id="9aa83dbf-5f1e-4f44-bd9e-4450c0fab5d7" name="Changes" comment="add a project">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TattooNationServices.dir/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TattooNationServices.dir/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TattooNationServices.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TattooNationServices.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TattooNationService/Controllers/WeatherForecastController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TattooNationService/Controllers/MessageController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TattooNationService/WeatherForecast.cs" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +20,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -32,9 +42,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    ".NET Launch Settings Profile.TattooNationService.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "1-hello-world",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   },
@@ -111,8 +126,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705179621066</updated>
-      <workItem from="1705179626350" duration="299000" />
+      <workItem from="1705179626350" duration="1125000" />
     </task>
+    <task id="LOCAL-00001" summary="add a project">
+      <option name="closed" value="true" />
+      <created>1705180371173</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705180371173</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,5 +156,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="add a project" />
+    <option name="LAST_COMMIT_MESSAGE" value="add a project" />
   </component>
 </project>
